@@ -6,8 +6,9 @@ dj-database-url==0.5.0
 Django==3.0
 djangorestframework~=3.11.0
 
-# Connection
+# Deployment
 gunicorn==20.0.4
+django-heroku==0.3.1
 
 # Authentication
 djangorestframework_simplejwt==4.3.0
