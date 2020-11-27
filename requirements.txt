@@ -6,7 +6,7 @@ Django==3.0
 djangorestframework~=3.11.0
 
 # Authentication
-djangorestframework_simplejwt==4.6.0
+djangorestframework_simplejwt==4.4.0
 
 # Requests
 requests==2.25.0
